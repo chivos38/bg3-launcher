@@ -65,4 +65,4 @@ _app/
 ## 🌏 Зеркало
 
 Если GitHub тормозит — этот же проект доступен на GitCode:
-*(вставь сюда ссылку после импорта)*
+https://gitcode.com/Chivos123/bg3-launcher
